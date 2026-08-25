@@ -11,6 +11,7 @@ Ideal inicial del proyecto:
   El objetivo durante esta primera etapa no será realizar análisis avanzado de los datos ni implementar inteligencia artificial. Debido al tiempo y a la carga académica disponible, el alcance se concentrará en lograr que la aeronave pueda censar diferentes variables y transmitirlas correctamente a una estación terrestre, además de permitir su control remoto durante las pruebas.
 
 2. Motivación
+
   La motivación del equipo para desarrollar este proyecto surge del interés por trabajar posteriormente en una plataforma aérea que pueda ser utilizada para  monitorear cultivos en diferentes regiones de Colombia, especialmente en lugares donde el acceso terrestre es complicado debido a la topografía montañosa.
   La idea de fondo es que, en un proyecto futuro, una plataforma aérea más avanzada pueda recorrer diferentes zonas y recopilar información mediante sensores y cámaras. Estos datos podrían posteriormente ser utilizados para desarrollar herramientas de análisis y Machine Learning, con las que sea posible estudiar cultivos, identificar patrones, clasificar diferentes tipos de vegetación o detectar posibles enfermedades.
   Sin embargo, desarrollar directamente una plataforma con todas estas capacidades tendría un alcance demasiado amplio para el tiempo disponible en el proyecto actual. Por esta razón, se decidió comenzar con un proyecto más concreto: un avión controlado mediante RF que permita adquirir y transmitir datos desde una plataforma aérea.
