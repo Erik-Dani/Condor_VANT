@@ -2,7 +2,7 @@
 
 Ideal inicial del proyecto: 
 
-La idea inicial del proyecto consiste en desarrollar una aeronave tipo avión, llamada Cóndor – VANT, controlada mediante radiofrecuencia (RF), que además de permitir el control remoto de sus funciones básicas —despegue, vuelo y aterrizaje— cuente con diferentes sensores para obtener información sobre su estado durante la operación. El proyecto integra en una misma plataforma el control de vuelo, la adquisición de información mediante sensores y la transmisión inalámbrica de los datos hacia una estación terrestre.
+La idea inicial del proyecto consiste en desarrollar una aeronave tipo avión, llamada Cóndor – VANT, controlada mediante radiofrecuencia (RF), que además de permitir el control remoto de funciones básicas como: Despegue, vuelo y aterrizaje, cuente con diferentes sensores para obtener información sobre su estado durante la operación. El proyecto integra en una misma plataforma el control de vuelo, la adquisición de información mediante sensores y la transmisión inalámbrica de los datos hacia una estación terrestre.
 
 El control de vuelo se resuelve con un sistema comercial de radiocontrol (transmisor y receptor a 2,4 GHz), que entrega directamente las señales de mando a los servos y al motor, de forma independiente al resto de la electrónica. Esto permite concentrar el desarrollo propio en la segunda parte del sistema: la adquisición y la transmisión de datos.
 
